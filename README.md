@@ -1,5 +1,15 @@
-# tcc-vm-icoma
-Maquina Nuvem
-# Meu Vestido
-## Subtitulo do Vestido
-<img width="300" height="420" alt="Captura de tela 2025-06-26 093616" src="https://github.com/user-attachments/assets/048167f4-e5c4-4c69-ad77-6252dd00cf0d" />
+### 📝 O que foi adicionado:
+
+✅ **☁️ Título profissional** com emojis legais  
+✅ **📚 Tabela de Conteúdos** para navegação fácil  
+✅ **🎯 Visão Geral** do projeto  
+✅ **📋 Pré-requisitos** claros com emojis  
+✅ **🚀 Guia passo a passo** de instalação  
+✅ **💻 Como Usar** a aplicação  
+✅ **📁 Estrutura do Projeto** bem organizada  
+✅ **⭐ Lista de Recursos** destacados  
+✅ **🤝 Instruções para Contribuir**  
+✅ **📄 Informações de Licença**  
+✅ **💜 Footer personalizado** com branding da ICOMA  
+
+Seu README agora está **profissional, bem formatado e cheio de emojis legais**! 🎉
