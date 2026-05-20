@@ -62,3 +62,5 @@ Se você tem entre 20 e 45 anos e quer fazer parte de uma revolução tecnológi
 
 _Projeto TCC - Iniciativa ESG Icoma_
 _ETEC Sylvio de Mattos Carvalho - Matão_
+
+Persona
