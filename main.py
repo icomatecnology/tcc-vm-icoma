@@ -1,5 +1,6 @@
 import os
 
+# pyrefly: ignore [missing-import]
 from flask import render_template, Flask
 
 app = Flask(__name__)
